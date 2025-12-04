@@ -105,11 +105,11 @@ python yolo_fire_sound.py
 
 This gives a natural “fire alarm loop” without glitching or overlap.
 
-##Camera Test
+## Camera Test
 ```
 python test_camera.py
 ```
-##How it Works
+## How it Works
 
 **YOLOv5 Model**
 The project loads YOLOv5 from Torch Hub:
@@ -133,7 +133,7 @@ A small state machine ensures:
   
   4. Optional cooldown (not needed but easy to add)
 
-##Credits
+## Credits
 
 **YOLOv5**
 
