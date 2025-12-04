@@ -2,7 +2,7 @@
 
 **Real-time flame detection using YOLOv5 + Python + OpenCV + Audio Alerts**
 
-This project detects fire using a webcam and triggers an audio alarm whenever fire is detected. It is built using **YOLOv5**, **OpenCV**, and **PyTorch**, with a smooth non-overlapping sound system that only plays the alert once per detection cycle.
+This project detects fire using a webcam and triggers an audio alarm (funny) whenever fire is detected. It is built using **YOLOv5**, **OpenCV**, and **PyTorch**, with a smooth non-overlapping sound system that only plays the alert once per detection cycle.
 
 ---
 
